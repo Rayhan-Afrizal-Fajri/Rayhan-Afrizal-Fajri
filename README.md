@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello World 👋
+Saya seorang mahasiswa prodi Teknik Informatika [Politeknik Negeri Cilacap](https://pnc.ac.id/)
+Saya memiliki minat di bidang Front-End dan Back-End Web Developer.
 <!--
 **Rayhan-Afrizal-Fajri/Rayhan-Afrizal-Fajri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
