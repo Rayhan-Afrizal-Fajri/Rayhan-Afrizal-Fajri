@@ -64,7 +64,7 @@ A web-based inventory and point-of-sale system with stock management, purchasing
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rayhan-Afrizal-Fajri/Rayhan-Afrizal-Fajri/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Rayhan-Afrizal-Fajri/Rayhan-Afrizal-Fajri/gh-pages/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
