@@ -8,6 +8,14 @@ I enjoy building web applications and business systems that turn real-world work
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rayhan-Afrizal-Fajri/Rayhan-Afrizal-Fajri/gh-pages/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -58,16 +66,6 @@ A web-based inventory and point-of-sale system with stock management, purchasing
   <img src="https://github-readme-stats.vercel.app/api?username=Rayhan-Afrizal-Fajri&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan-Afrizal-Fajri&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rayhan-Afrizal-Fajri/Rayhan-Afrizal-Fajri/gh-pages/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
